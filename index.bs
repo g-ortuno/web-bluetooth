@@ -1,5 +1,5 @@
 <pre class='metadata'>
-Title: Web Bluetooth
+Title: Web Bluetooth Yay!
 Repository: WebBluetoothCG/web-bluetooth
 Status: CG-DRAFT
 ED: https://webbluetoothcg.github.io/web-bluetooth/
