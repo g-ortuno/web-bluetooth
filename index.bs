@@ -1,5 +1,5 @@
 <pre class='metadata'>
-Title: Web Bluetooth Yay!
+Title: LGTM
 
 Markup Shorthands: css no, markdown yes
 </pre>
